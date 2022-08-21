@@ -36,7 +36,7 @@ body{
     width: 200px;
     height: 200px;
     background: linear-gradient(to left, #fff, #fff 50%, #000, #000 50%);
-    animation: spin 3s linear infinite;
+    animation: spin 0.5s linear infinite;
     animation-direction: reverse;
 }
 .creative::before{
